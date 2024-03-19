@@ -1,0 +1,138 @@
+.signup-container {
+    margin-left: 240px;
+    display: flex;
+    margin-top: 90px;
+    margin-left: 520px;
+         
+}
+.signup-background
+{
+    background-image: url('https://images.unsplash.com/photo-1535982330050-f1c2fb79ff78?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    width: 1548px;
+    height: 770px;
+    margin-top: -140px;
+    margin-left: -20px;
+
+}
+
+
+.signup-form {
+    background-color: #ffffff65;
+    padding: 40px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 400px;
+    border-color: #000000;
+    margin-top: 120px;
+    
+    
+}
+
+.signup-head {
+    text-align: center;
+    margin-top: -20px;
+    color: #e62f2f; 
+    margin-left: 80px;
+    width: 90px;
+}
+
+
+
+input.rag-signup-name
+select.rag-signup-name {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-top: 30px;
+    margin-left: -300px;
+   
+}
+button.log-sign
+{
+    width: 90px;
+    background-color: #007bff; 
+    color: #fff;
+    padding: 12px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left: 50px;
+    margin-top: 90px;
+    margin-left: 160px;
+    transition: background-color 0.3s ease;
+
+}
+.signup-forget
+{
+    margin-left: 140px;
+    cursor: pointer;
+}
+
+
+
+
+button.signup-button  {
+    width: 90px;
+    background-color: #007bff; 
+    color: #fff;
+    padding: 12px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left: 50px;
+    margin-top: 90px;
+    margin-left: -190px;
+    transition: background-color 0.3s ease;
+}
+
+button.signup-button,button.log-sign[type="submit"]:hover {
+    background-color: #0056b3; 
+}
+.signup-name
+{
+    margin-top: 30px;
+    width: 320px;
+    margin-left: -320px;
+}
+.signup-email
+{
+    margin-top: 20px;
+    width: 320px;
+    margin-left: 30px;
+}
+.signup-pass
+{
+    margin-top: 80px;
+    width: 320px;
+    margin-left: -320px;
+}
+.signup-con{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.signup-pho{
+    margin-top: 80px;
+    margin-left: -320px;
+    width: 320px;
+}
+.signup-drop
+{
+    margin-top: 20px;
+    margin-left: 30px;
+    width: 320px;
+}
+.signup-drop-1
+{
+    width: 340px;
+}
+.rag-signup-role
+{
+    width: 340px;
+}
+.error
+{
+    color: red;
+}
