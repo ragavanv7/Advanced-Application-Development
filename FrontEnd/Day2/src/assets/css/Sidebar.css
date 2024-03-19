@@ -1,0 +1,58 @@
+.sidebar-con {
+    background-color: #f4f4f4;
+    width: 200px;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    overflow-y: auto;
+}
+
+ul.sidebar-ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li.sidebar-li {
+    padding: 10px;
+    width:100px;
+    
+}
+
+a.sidebar-1 {
+    text-decoration: none;
+    color: #000000;
+    display: block;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
+    margin-left: 60px;
+    margin-top: 40px;
+    
+}
+button.logout
+{
+    
+        width: 80px;
+        height: 40px;
+        margin-left: 70px;
+        background-color: #ff0808;
+        color: #000000;
+        font-weight: bold;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        margin-top: 40px;
+    
+}
+
+a:hover {
+    background-color: #3769dcc3;
+    width: 85px;
+    height: 22px;
+    border-radius: 10px;
+}
+/* .dashboard-icon
+{
+    margin-left: -60px;
+    margin-top: 20px;
+} */
