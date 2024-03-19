@@ -1,0 +1,80 @@
+/* .home-full{
+    /* margin: 0; */
+    /* overflow-y: hidden !important; */
+/* } */ 
+
+.home1
+{
+    font-style: italic;
+}
+.home-background
+{
+    
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+
+    
+}
+.back-img {
+    position: relative;
+    width: 1530px;
+    height: 900px;
+    margin-left: -20px;
+  }
+  .card-img
+  {
+    position: relative;
+    width: 1520px;
+    height: 1000px;
+  }
+  .home-content
+  {
+    margin-top: -100px;
+  }
+  .wel-home
+  {
+    margin-top: -20px;
+  }
+  .image-content {
+    position: absolute;
+    bottom: 200px; 
+    left: 60px; 
+    font-size: xx-large;
+    padding: 20px; 
+    color: white; 
+  }
+  .image-content h2 {
+    margin-top: 0;
+
+  }
+  .image-content p {
+    margin:  0; 
+  }
+  .image-content button {
+    background-color: #FF5202;
+    margin-left: 100px; 
+    margin-top: 40px;
+    color: #fff;
+    padding: 15px 20px; 
+    border: none; 
+    border-radius: 2rem; 
+    cursor: pointer;
+    font-size: 16px; 
+    transition: background-color 0.3s; 
+    height: 60px;
+    width: 200px;
+    
+  }
+ button .apply-home
+  {
+    margin-top: -200px;
+  }
+  .image-content button:hover {
+    background-color: #031098;
+  }
+  .image-content button:focus {
+    outline: none; 
+    box-shadow: 0 0 0 2px #007bff; 
+  }
