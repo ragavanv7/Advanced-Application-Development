@@ -1,0 +1,131 @@
+/* .home-full{
+    /* margin: 0; */
+    /* overflow-y: hidden !important; */
+/* } */ 
+
+.home1
+{
+    font-style: italic;
+}
+.home-background
+{
+    
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+
+    
+}
+.back-img {
+    position: relative;
+    width: 1530px;
+    height: 900px;
+    margin-left: -20px;
+  }
+  .card-img
+  {
+    position: relative;
+    width: 1520px;
+    height: 1000px;
+  }
+  .home-content
+  {
+    margin-top: -100px;
+  }
+  .wel-home
+  {
+    margin-top: -20px;
+  }
+  .image-content {
+    position: absolute;
+    align-items: center;
+    bottom: 200px; 
+    left: 490px; 
+    font-size: xx-large;
+    padding: 20px; 
+    color: white; 
+  }
+  .image-content h2 {
+    margin-top: 0;
+
+  }
+  .image-content p {
+    margin:  0; 
+  }
+  .image-content button {
+    background-color: #FF5202;
+    margin-left: 100px; 
+    margin-top: 40px;
+    color: #fff;
+    padding: 15px 20px; 
+    border: none; 
+    border-radius: 2rem; 
+    cursor: pointer;
+    font-size: 16px; 
+    transition: background-color 0.3s; 
+    height: 60px;
+    width: 200px;
+    
+  }
+ button .apply-home
+  {
+    margin-top: -200px;
+  }
+  .image-content button:hover {
+    background-color: #031098;
+  }
+  .image-content button:focus {
+    outline: none; 
+    box-shadow: 0 0 0 2px #007bff; 
+  }
+  .smallcards p {
+    margin-bottom: 20px; 
+  }
+    button.mad {
+    background-color: #FF5202;
+    color: #fff; 
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px; 
+    cursor: pointer; 
+    margin-left: 65px;
+    transition: background-color 0.3s ease; 
+  } 
+ 
+  
+  button.mad:hover {
+    background-color: #ff7f50; 
+  }
+  .small-cards {
+    display: flex;
+    justify-content: center; 
+    gap: 30px; 
+  }
+  
+  .card {
+    width: 800px; 
+    background-color: #fff; 
+    border: 1px solid #ccc; 
+    border-radius: 5px; 
+    overflow: hidden; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    padding: 30px;
+    margin-top: 30px;
+  }
+  
+  .card-img {
+    width: 100%; 
+    height: auto; 
+  }
+  
+  .smallcards {
+    padding: 20px;
+    
+  }
+  
+  .smallcards h4 {
+    margin-bottom: 10px;
+    margin-left: 50px;
+    font-size: larger;
+  }

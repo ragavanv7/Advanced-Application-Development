@@ -1,0 +1,20 @@
+.wel-dash
+{
+    display: flex;
+    align-items: center;
+    margin-left: 290px;
+}
+.stu-info
+{
+    margin-left: 60px;
+    cursor: pointer;
+}
+.card-info
+{
+    display: flex;
+    background-color: aquamarine;
+    border-radius: 2rem;
+    width: 220px;
+    margin-left: 290px;
+    gap: -80px;
+}
